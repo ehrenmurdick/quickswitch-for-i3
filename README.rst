@@ -108,7 +108,7 @@ Dependencies
 ------------
 quickswitch-i3 requires dmenu (which you likely already have installed),
 and i3-py, which you can install with ``pip install i3-py`` if you're
-using python 2.7, or ``pip3 install i3-py`` if you're using pyton 3.
+using python 2.7, or ``pip3 install i3-py`` if you're using python 3.
 
 quickswitch-i3 was tested in Python 2.7.3 and 3.2.3. It will not work in
 version prior to 2.7 due to the usage of ``argparse``.
